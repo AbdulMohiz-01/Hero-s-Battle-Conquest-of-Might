@@ -23,7 +23,7 @@ To play Hero's Battle: Conquest of Might on your local machine, follow these ste
 1. Clone the repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/heros-battle.git
+   git clone https://github.com/AbdulMohiz-01/heros-battle.git
    ```
 
 2. Open the solution file (`HeroBattle.sln`) in Visual Studio or your preferred IDE.
