@@ -1,6 +1,6 @@
 # Hero's Battle: Conquest of Might
 
-![Hero's Battle](hero_battle_banner.png)
+![Hero's Battle](https://github.com/AbdulMohiz-01/Hero-s-Battle-Conquest-of-Might/blob/main/boss%20game.png)
 
 ## Overview
 
