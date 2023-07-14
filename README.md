@@ -52,7 +52,7 @@ Once you've launched Hero's Battle: Conquest of Might, here's a brief guide to p
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance Hero's Battle: Conquest of Might. If you'd like to contribute, please follow these steps:
+I welcome contributions from the open-source community to enhance Hero's Battle: Conquest of Might. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository on GitHub.
 
@@ -66,7 +66,7 @@ We welcome contributions from the open-source community to enhance Hero's Battle
 
 6. Submit a pull request to the main repository, describing the purpose and details of your changes.
 
-7. Our team will review your pull request, provide feedback, and work with you to merge the changes into the main project if they meet the project's criteria.
+7. I will review your pull request, provide feedback, and work with you to merge the changes into the main project if they meet the project's criteria.
 
 ## License
 
