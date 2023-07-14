@@ -16,7 +16,7 @@
 
 ## Installation
 
-1. ```git clone https://github.com/AbdulMohiz-01/heros-battle.git ``` You can use this command to clone the repository from the terminal.
+1. ``` https://github.com/AbdulMohiz-01/Hero-s-Battle-Conquest-of-Might.git ``` You can use this command to clone the repository from the terminal.
 2. Open the solution file (`BossGame.sln`) in your preferred IDE.
 3. Build the solution and run the game.
 
